@@ -8,12 +8,8 @@ body {
     background-color: red;
 }
 
-.img-poster {
+img {
     height: 350px;
     width: 350px;
 }
 
-.row {
-    width: 100%;
-    height: 700px;
-}
