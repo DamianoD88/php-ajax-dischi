@@ -8,8 +8,13 @@ body {
     background-color: red;
 }
 
+.logo {
+    width: 115px;
+    height: 92px;
+}
+
 img {
-    height: 350px;
-    width: 350px;
+    height: 200px;
+    width: 200px;
 }
 
